@@ -8,13 +8,13 @@
 
 개발 언어 : python
 
-사용 라이브러리 : Huggingface, Pytorch, streamlit
+사용 라이브러리 : Huggingface, Pytorch, streamlit , wandb
 
 ---
 ### 참고 논문
-*  Li, Juncen, et al. "Delete, retrieve, generate: A simple approach to sentiment and style transfer."
-*  배장성, et al. "마스크 언어 모델 기반 비병렬 한국어 텍스트 스타일 변환"
-*  Joosung Lee. "Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer"
+*  Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer (Li et al., NAACL 2018)
+*  Unpaired Korean Text Style Transfer with Masked Language Model (배장성, et al. 2021)
+*  Stable Style Transformer: Delete and Generate Approach with Encoder-Decoder for Text Style Transfer (Joosung Lee, 2020)
 
 ---
 ### 참고 github
