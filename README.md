@@ -4,13 +4,14 @@
 사용자가 입력한 댓글에 대하여 비윤리적 표현이 발견될 경우 해당 표현을 윤리적으로 순화하는 프로젝트.
 ---
 ### 사용 데이터
-AI hub 텍스트 윤리 검증 data set :https://aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558
-Korean HateSpeech Dataset: https://github.com/kocohub/korean-hate-speech
+
+- AI hub 텍스트 윤리 검증 data set :https://aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558
+- Korean HateSpeech Dataset: https://github.com/kocohub/korean-hate-speech
 ---
 ### 사용 기술
-딥러닝 모델 : pretrained된 KcELECTRA, kogpt2
+- 딥러닝 모델 : pretrained된 KcELECTRA, kogpt2
 
-사용 라이브러리 : Huggingface, Pytorch, streamlit , wandb
+- 사용 라이브러리 : Huggingface, Pytorch, streamlit , wandb
 
 ---
 ### 프로젝트 정리
