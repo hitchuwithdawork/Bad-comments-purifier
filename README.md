@@ -1,12 +1,13 @@
 # 악성 댓글 순화 프로젝트
 
 ### 프로젝트 소개
-사용자가 입력한 댓글에 대하여 비윤리적 표현이 발견될 경우 해당 표현을 윤리적으로 순화하는 프로젝트.
+
+- 사용자가 입력한 댓글에 대하여 비윤리적 표현이 발견될 경우 해당 표현을 윤리적으로 순화하는 프로젝트.
 ---
 ### 사용 데이터
 
 - [AI hub 텍스트 윤리 검증 data set] (https://aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558)
-- [Korean HateSpeech Dataset] https://github.com/kocohub/korean-hate-speech
+- [Korean HateSpeech Dataset] (https://github.com/kocohub/korean-hate-speech)
 ---
 ### 사용 기술
 - 딥러닝 모델 : pretrained된 KcELECTRA, kogpt2
