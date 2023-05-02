@@ -5,8 +5,8 @@
 ---
 ### 사용 데이터
 
-- AI hub 텍스트 윤리 검증 data set :https://aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558
-- Korean HateSpeech Dataset: https://github.com/kocohub/korean-hate-speech
+- [AI hub 텍스트 윤리 검증 data set] (https://aihub.or.kr/aihubdata/data/view.docurrMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=558)
+- [Korean HateSpeech Dataset] https://github.com/kocohub/korean-hate-speech
 ---
 ### 사용 기술
 - 딥러닝 모델 : pretrained된 KcELECTRA, kogpt2
